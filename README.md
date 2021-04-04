@@ -1,5 +1,5 @@
 ## Marlon Ramos
-<p>marlon307 - development full stack</p>
+marlon307 - development full stack
 Estudando desenvolvimento web Full Stak [Trybe](https://www.betrybe.com/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-042423?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marlon307/)](https://www.linkedin.com/in/marlon307/)
@@ -7,3 +7,4 @@ Estudando desenvolvimento web Full Stak [Trybe](https://www.betrybe.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-042423?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/_marlon307)](https://twitter.com/_marlon307)
 
 ### Sobre
+Entusiasta das melhores tecnóloga 

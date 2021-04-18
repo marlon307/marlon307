@@ -9,6 +9,6 @@ Estudando desenvolvimento web Full Stak [Trybe](https://www.betrybe.com/)
 
 ### Sobre
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon307&layout=compact&bg_color=00000000&title_color=e4e4e4&text_color=c9d1d9&hide_border=true)](https://github.com/marlon307/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon307&layout=compact&bg_color=11151d&title_color=fe428e&text_color=c9d1d9&hide_border=true)](https://github.com/marlon307/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlon307&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlon307&show_icons=true&bg_color=11151d&title_color=fe428e&text_color=c9d1d9&hide_border=true)

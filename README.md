@@ -20,7 +20,7 @@
 </br>
 
 - 👀 Estou interessado em aprender [React](https://pt-br.reactjs.org/)
-- 🌱 Atualmente estou estudando desenvolvimento web Full Stak [Trybe](https://pt-br.reactjs.org/)
+- 🌱 Atualmente estudo desenvolvimento web Full Stak [Trybe](https://pt-br.reactjs.org/)
 - 💞️ Estou procurando colaborar com projetos desafiadores.
 - ⚡ Curiosidade: ...
 - 😄 Pronomes: Marlon - marlin

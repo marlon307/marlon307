@@ -8,4 +8,7 @@ Estudando desenvolvimento web Full Stak [Trybe](https://www.betrybe.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-042423?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/_marlon307)](https://twitter.com/_marlon307)
 
 ### Sobre
-Entusiasta das melhores tecnóloga 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon307&layout=compact&theme=dracula)](https://github.com/marlon307/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlon307&show_icons=true&theme=radical)

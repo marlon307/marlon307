@@ -7,7 +7,6 @@ Estudando desenvolvimento web Full Stak [Trybe](https://www.betrybe.com/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-042423?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_marlon307/)](https://www.instagram.com/_marlon307/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-042423?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/_marlon307)](https://twitter.com/_marlon307)
 
-### Sobre
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon307&layout=compact&bg_color=11151d&title_color=8577ff&text_color=c9d1d9&hide_border=true)](https://github.com/marlon307/github-readme-stats)
 

@@ -35,7 +35,7 @@
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon307&layout=compact&bg_color=11151d&title_color=8577ff&text_color=c9d1d9&hide_border=true)](https://github.com/marlon307/github-readme-stats)  <a href="https://github.com/marlon307/ficticio">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon307&layout=compact&bg_color=f0f6fc26&title_color=8577ff&text_color=c9d1d9&hide_border=true)](https://github.com/marlon307/github-readme-stats)  <a href="https://github.com/marlon307/ficticio">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=marlon307&repo=ficticio&bg_color=11151d&title_color=8577ff&text_color=c9d1d9&hide_border=true&icon_color=938dd8" />
 </a>
 

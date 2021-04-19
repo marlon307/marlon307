@@ -28,9 +28,9 @@
 </br>
 
 #### Idiomas e ferramentas:
-<code><img alt="JavaScript" title="JavaScript" width="25px" src="https://github.com/marlon307/uti/blob/main/svg/icons8-javascript.svg" /></code>
-<code><img alt="React" title="React" width="25px" src="https://github.com/marlon307/uti/blob/main/svg/icons8-react.svg" /></code>
-<code><img alt="C#" title="C Sharp" width="25px" src="https://github.com/marlon307/uti/blob/main/svg/icons8-c-sharp-logo-2.svg" /></code>
+<code><img alt="JavaScript" title="JavaScript" width="20px" src="https://github.com/marlon307/uti/blob/main/svg/icons8-javascript.svg" /></code>
+<code><img alt="React" title="React" width="20px" src="https://github.com/marlon307/uti/blob/main/svg/icons8-react.svg" /></code>
+<code><img alt="C#" title="C Sharp" width="20px" src="https://github.com/marlon307/uti/blob/main/svg/icons8-c-sharp-logo-2.svg" /></code>
 
 </br>
 </br>

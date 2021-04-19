@@ -28,15 +28,9 @@
 </br>
 
 #### Idiomas e ferramentas:
-<a href="#" target="_blank">
-  <img align="center" alt="JavaScript" title="JavaScript" width="27px" src="https://github.com/marlon307/uti/blob/main/svg/icons8-javascript.svg" />
-</a>
-<a href="#" target="_blank">
-  <img align="center" alt="React" title="React" width="19px" src="https://github.com/marlon307/uti/blob/main/svg/icons8-react.svg" />
-</a>
-<a href="#" target="_blank">
-  <img align="center" alt="C#" title="C Sharp" width="27px" src="https://github.com/marlon307/uti/blob/main/svg/icons8-c-sharp-logo-2.svg" />
-</a>
+<code><img alt="JavaScript" title="JavaScript" width="25px" src="https://github.com/marlon307/uti/blob/main/svg/icons8-javascript.svg" /></code>
+<code><img alt="React" title="React" width="25px" src="https://github.com/marlon307/uti/blob/main/svg/icons8-react.svg" /></code>
+<code><img alt="C#" title="C Sharp" width="25px" src="https://github.com/marlon307/uti/blob/main/svg/icons8-c-sharp-logo-2.svg" /></code>
 
 </br>
 </br>

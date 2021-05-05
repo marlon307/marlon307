@@ -21,7 +21,6 @@
 
 - 👀 Estou interessado em [React](https://pt-br.reactjs.org/)
 - 🌱 Atualmente estudo desenvolvimento web Full Stack [Trybe](https://pt-br.reactjs.org/)
-- 💞️ Estou procurando colaborar com projetos desafiadores.
 - ⚡ Curiosidade: Churrasco
 - 😄 Pronomes: Marlon - marlin
 

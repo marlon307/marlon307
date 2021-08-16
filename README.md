@@ -20,7 +20,7 @@
 </br>
 
 - 👀 Estou interessado em [React](https://pt-br.reactjs.org/)
-- 🌱 Atualmente estudo desenvolvimento web Full Stack [Trybe](https://pt-br.reactjs.org/)
+- 🌱 Atualmente estudo desenvolvimento web Full Stack [Trybe](https://www.betrybe.com/)
 - ⚡ Curiosidade: Aprender
 - 😄 Pronomes: Marlon - marlin
 

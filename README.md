@@ -19,10 +19,10 @@
 </br>
 </br>
 
-- 👀 Estou interessado em [React](https://pt-br.reactjs.org/)
+- 👀 Estou interessado em [React - Next.js](https://nextjs.org/)
 - 🌱 Atualmente estudo desenvolvimento web Full Stack [Trybe](https://www.betrybe.com/)
-- ⚡ Curiosidade: Aprender
-- 😄 Pronomes: Marlon - marlin
+- ⚡ Curiosidade: Gosto muito de churrasco ; )
+- 😄 Pronomes: marlin
 
 </br>
 

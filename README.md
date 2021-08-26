@@ -20,7 +20,7 @@
 </br>
 
 - 👀 Estou interessado em [React - Next.js](https://nextjs.org/)
-- :roll_eyes: Quero me aprofundar em C#
+- :roll_eyes: Quero me aprofundar em [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - 🌱 Atualmente estudo desenvolvimento web Full Stack [Trybe](https://www.betrybe.com/)
 - ⚡ Curiosidade: Gosto muito de churrasco ; )
 - 😄 Pronomes: marlin

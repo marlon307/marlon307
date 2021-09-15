@@ -20,7 +20,7 @@
 </br>
 
 - 👀 Estou interessado em [React - Next.js](https://nextjs.org/)
-- :roll_eyes: Tabem tenho interesse [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+- :roll_eyes: Tabem tenho interesse em estudar [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - 🌱 Atualmente estudo desenvolvimento web Full Stack [Trybe](https://www.betrybe.com/)
 - ⚡ Curiosidade: Gosto muito de churrasco ; )
 - 😄 Pronomes: marlin

@@ -20,7 +20,6 @@
 </br>
 
 - 👀 Estou interessado em [React - Next.js](https://nextjs.org/)
-- :roll_eyes: Tabem tenho interesse em estudar [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - 🌱 Atualmente estudo desenvolvimento web Full Stack [Trybe](https://www.betrybe.com/)
 - ⚡ Curiosidade: Gosto muito de churrasco ; )
 - 😄 Pronomes: marlin
@@ -31,7 +30,6 @@
 <code><img alt="TypeScript" title="TypeScript" width="20px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-typescript.svg" /></code>
 <code><img alt="JavaScript" title="JavaScript" width="20px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-javascript.svg" /></code>
 <code><img alt="React" title="React" width="20px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-react.svg" /></code>
-<code><img alt="C#" title="C Sharp" width="20px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-c-sharp-logo-2.svg" /></code>
 
 </br>
 

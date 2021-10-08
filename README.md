@@ -1,4 +1,4 @@
-# Olá, sou o Marlon <img align="right" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=marlon307&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A" />
+# Olá, sou o Marlon
 
 <a href="https://www.linkedin.com/in/marlon307/" target="_blank">
   <img align="left" alt="Marlon | _marlon307" width="25px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-linkedin.svg" />

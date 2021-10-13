@@ -12,9 +12,6 @@
 <a href="https://discord.gg/P7XAcHTAFF" target="_blank">
   <img align="left" alt="Marlon | _marlon307" width="25px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-discord-new-logo.svg" />
 </a>
-<a href="https://steamcommunity.com/id/_marl1n/" target="_blank">
-  <img align="left" alt="Marlon | _marlon307" width="25px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-steam.svg" />
-</a>
 
 </br>
 </br>

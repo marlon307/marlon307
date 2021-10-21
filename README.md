@@ -18,7 +18,7 @@
 
 - 👀 Estou interessado em [React - Next.js](https://nextjs.org/)
 - 🌱 Atualmente estudo desenvolvimento web Full Stack [Trybe](https://www.betrybe.com/)
-- ⚡ Curiosidade: #code
+- ⚡ Curiosidade: #code q#
 - 😄 Pronomes: marlin
 
 </br>

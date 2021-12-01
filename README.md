@@ -1,11 +1,12 @@
 # Olá, sou o Marlon
-
+<p align="center">
 <a href="https://www.linkedin.com/in/marlon307/" target="_blank">
-  <img align="left" alt="Marlon | _marlon307" width="25px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-linkedin.svg" />
-</a>
+  <img alt="Marlon | _marlon307" width="25px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-linkedin.svg" />
+</a>&emsp;
 <a href="https://twitter.com/_marlon307" target="_blank">
-  <img align="left" alt="Marlon | _marlon307" width="25px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-twitter.svg" />
+  <img alt="Marlon | _marlon307" width="25px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-twitter.svg" />
 </a>
+</p>
 
 </br>
 </br>

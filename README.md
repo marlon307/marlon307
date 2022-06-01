@@ -7,14 +7,6 @@
 </a>
 
 </br>
-</br>
-
-- 👀 Estou interessado em projetos [Full-Stack]()
-- 🌱 Atualmente trabalho como desenvolvedor Full Stack [Coinsure](https://coinsure.com.br/)
-- ⚡ Curiosidade: [Q#](https://docs.microsoft.com/en-us/azure/quantum/overview-what-is-qsharp-and-qdk)
-- 😄 Pronomes: marlin(ele/dele)
-
-</br>
 
 #### Idiomas e ferramentas:
 

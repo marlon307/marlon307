@@ -10,17 +10,15 @@
 
 #### Idiomas e ferramentas:
 
-<code><img alt="TypeScript" title="TypeScript" width="20px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-typescript.svg" /></code>
-<code><img alt="JavaScript" title="JavaScript" width="20px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-javascript.svg" /></code>
-<code><img alt="React" title="React" width="20px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-react.svg" /></code>
-<code><img alt="Node.Js" title="Node.Js" width="20px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-node-js.svg" /></code>
-<code><img alt="Python" title="Python" width="20px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-python.svg" /></code>
-<code>
-<picture>
+<code><a href="https://www.typescriptlang.org/" target="_blank"><picture><img alt="TypeScript" title="TypeScript" width="20px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-typescript.svg" /></picture></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><picture><img alt="JavaScript" title="JavaScript" width="20px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-javascript.svg" /></picture></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><picture><img alt="React" title="React" width="20px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-react.svg" /></picture></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><picture><img alt="Node.Js" title="Node.Js" width="20px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-node-js.svg" /></picture></a></code>
+<code><a href="https://www.python.org/" target="_blank"><picture><img alt="Python" title="Python" width="20px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-python.svg" /></picture></a></code>
+<code><a href="https://flask.palletsprojects.com/" target="_blank"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/marlon307/marlon307/blob/main/svg/pocoo_flask-icon_l.svg">
   <img width="20px" alt="Flask" title="Flask" src="https://github.com/marlon307/marlon307/blob/main/svg/pocoo_flask-icon.svg">
-</picture>
-</code>
+</picture></a></code>
 
 </br>
 

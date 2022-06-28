@@ -16,6 +16,7 @@
 <code><a href="https://nodejs.org/en/" target="_blank"><picture><img alt="Node.Js" title="Node.Js" width="20px" src="./svg/icons8-node-js.svg" /></picture></a></code>
 <code><a href="https://www.python.org/" target="_blank"><picture><img alt="Python" title="Python" width="20px" src="./svg/icons8-python.svg" /></picture></a></code>
 <code><a href="https://flask.palletsprojects.com/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="./svg/pocoo_flask-icon_l.svg"><img width="20px" alt="Flask" title="Flask" src="./svg/pocoo_flask-icon.svg"></picture></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><picture><img width="20px" alt="Flask" title="MySQL" src="./svg/icons8-mysql-logo.svg"></picture></a></code>
 
 </br>
 

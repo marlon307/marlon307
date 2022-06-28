@@ -15,8 +15,6 @@
 <code><img alt="React" title="React" width="20px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-react.svg" /></code>
 <code><img alt="Node.Js" title="Node.Js" width="20px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-node-js.svg" /></code>
 <code><img alt="Python" title="Python" width="20px" src="https://github.com/marlon307/marlon307/blob/main/svg/icons8-python.svg" /></code>
-<code><img alt="Flask" title="Flask" width="20px" src="https://img.icons8.com/ios-filled/50/000000/flask.png" /></code>
-<code><img alt="MySQL" title="MySQL" width="20px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" /></code>
 
 </br>
 

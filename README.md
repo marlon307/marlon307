@@ -18,7 +18,7 @@
 <code>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/marlon307/marlon307/blob/main/svg/pocoo_flask-icon_l.svg">
-  <img width="20px" alt="Flask" src="https://github.com/marlon307/marlon307/blob/main/svg/pocoo_flask-icon.svg">
+  <img width="20px" alt="Flask" title="Flask" src="https://github.com/marlon307/marlon307/blob/main/svg/pocoo_flask-icon.svg">
 </picture>
 </code>
 

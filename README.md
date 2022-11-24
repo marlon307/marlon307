@@ -16,7 +16,7 @@
 }
 ```
 
-#### Idiomas e ferramentas:
+#### Stacks:
 
 <code><a href="https://www.typescriptlang.org/" target="_blank"><picture><img alt="TypeScript" title="TypeScript" width="20px" src="./svg/icons8-typescript.svg" /></picture></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><picture><img alt="JavaScript" title="JavaScript" width="20px" src="./svg/icons8-javascript.svg" /></picture></a></code>

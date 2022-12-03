@@ -12,7 +12,7 @@
 {
  "name": "Marlon Ramos",
  "portfolio": "https://www.marlon307.dev/"
- "main_stacks": ["Next.Js", "Node.Js", "Python", "FastAPI", "MySQL"],
+ "stacks": ["Next.Js", "Node.Js", "Python", "FastAPI", "MySQL"],
 }
 ```
 

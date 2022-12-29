@@ -1,9 +1,11 @@
+<div align="center"
 <a href="https://www.linkedin.com/in/marlon307/" target="_blank">
   <img alt="Marlon | _marlon307" width="25px" src="./svg/icons8-linkedin.svg" />
 </a>
 <a href="https://twitter.com/_marlon307" target="_blank">
-  <img alt="Marlon | _marlon307" width="25px" src="./svg/icons8-twitter.svg" />
+  <img alt="Marlon | _marlon307" width="25px" src="./svg/icons8-twitter.svg"  />
 </a>
+</div>
 
 </br>
 </br>

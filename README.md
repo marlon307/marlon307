@@ -11,7 +11,7 @@
 ```JSON
 {
  "name": "Marlon Ramos",
- "portfolio": "https://portfolio-marlon307.vercel.app/"
+ "portfolio": "https://portfolio-marlon307.vercel.app/",
  "stacks": ["Next.Js", "Node.Js", "Python", "FastAPI", "MySQL"],
 }
 ```

@@ -5,7 +5,7 @@
  "languages": ["HTML5", "JavaScript/TypeScript", "Python"],
  "styles": ["CSS", "Sass", "Tailwindcss"],
  "libs": ["React.Js"],
-  "frameworks": ["Next.Js", "FastAPI"],
+ "frameworks": ["Next.Js", "FastAPI"],
  "databases": ["MySQL", "Mongo.DB"],
  "orms": ["Prisma.io", "Sequelize"],
 }

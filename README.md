@@ -2,7 +2,12 @@
 {
  "name": "Marlon Ramos",
  "portfolio": "https://portfolio-marlon307.vercel.app/",
- "stacks": ["React.Js", "Next.Js", "CSS", "Tailwindcss", "Sass", "Node.Js", "Python", "FastAPI", "Primsa.io", "MySQL"],
+ "languages": ["HTML5", "JavaScript/TypeScript", "Python"],
+ "styles": ["CSS", "Sass", "Tailwindcss"],
+ "libs": ["React.Js"],
+  "frameworks": ["Next.Js", "FastAPI"],
+ "databases": ["MySQL", "Mongo.DB"],
+ "orms": ["Prisma.io", "Sequelize"],
 }
 ```
 

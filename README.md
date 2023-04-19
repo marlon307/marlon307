@@ -1,22 +1,12 @@
-<a href="https://www.linkedin.com/in/marlon307/" target="_blank">
-  <img alt="Marlon | _marlon307" width="25px" src="./svg/icons8-linkedin.svg" />
-</a>
-<a href="https://twitter.com/_marlon307" target="_blank">
-  <img alt="Marlon | _marlon307" width="25px" src="./svg/icons8-twitter.svg"  />
-</a>
-
-</br>
-</br>
-
 ```JSON
 {
  "name": "Marlon Ramos",
  "portfolio": "https://portfolio-marlon307.vercel.app/",
- "stacks": ["Next.Js", "Node.Js", "Python", "FastAPI", "MySQL"],
+ "stacks": ["React.Js", "Next.Js", "CSS", "Tailwindcss", "Sass", "Node.Js", "Python", "FastAPI", "Primsa.io", "MySQL"],
 }
 ```
 
-#### Stacks:
+<!-- #### Stacks:
 
 <code><a href="https://www.typescriptlang.org/" target="_blank"><picture><img alt="TypeScript" title="TypeScript" width="20px" src="./svg/icons8-typescript.svg" /></picture></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><picture><img alt="JavaScript" title="JavaScript" width="20px" src="./svg/icons8-javascript.svg" /></picture></a></code>
@@ -26,7 +16,7 @@
 <code><a href="https://flask.palletsprojects.com/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="./svg/pocoo_flask-icon_l.svg"><img width="20px" alt="Flask" title="Flask" src="./svg/pocoo_flask-icon.svg"></picture></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><picture><img width="20px" alt="Flask" title="MySQL" src="./svg/icons8-mysql-logo.svg"></picture></a></code>
 
-</br>
+</br> -->
 
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon307&layout=compact&bg_color=11151d&title_color=8577ff&text_color=c9d1d9&hide_border=true)](https://github.com/marlon307/repositories)

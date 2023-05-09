@@ -1,4 +1,4 @@
-```JSON
+<!-- #### Stacks: ```JSON
 {
  "name": "Marlon Ramos",
  "portfolio": "https://portfolio-marlon307.vercel.app/",
@@ -9,7 +9,7 @@
  "databases": ["MySQL", "Mongo.DB"],
  "orms": ["Prisma.io", "Sequelize"],
 }
-```
+``` -->
 
 <!-- #### Stacks:
 
